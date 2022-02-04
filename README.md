@@ -10,6 +10,10 @@ Some features that has been added:
 * props
 * emit events to parents
 
+## Check project:
+
+http://206.189.185.229:8080/
+
 ## Project setup
 ```
 npm install
